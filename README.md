@@ -23,8 +23,8 @@
 
 <br></br>
 <p>
-  <span>&nbsp;<img align="center" src="https://github-readme-stats-widget.vercel.app/api/top-langs/?username=elena-bullani&hide_border=true&layout=compact&count_private=true" alt="elena-bullani" /></span>
-  <span>&nbsp;<img align="center" src="https://github-readme-stats-widget.vercel.app/api?username=elena-bullani&hide=stars,issues&hide_border=true&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="elena-bullani" /></span>
+  <span>&nbsp;<img align="center" src="https://github-readme-stats-widget-git-master-elena-bullani.vercel.app/api/top-langs/?username=elena-bullani&hide_border=true&layout=compact&count_private=true" alt="elena-bullani" /></span>
+  <span>&nbsp;<img align="center" src="https://github-readme-stats-widget-git-master-elena-bullani.vercel.app/api?username=elena-bullani&hide=stars,issues&hide_border=true&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="elena-bullani" /></span>
 </p>
 
 <br></br>
