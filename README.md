@@ -1,6 +1,6 @@
 ## Hi 👋🏻, I'm Elena
 
-A junior full-stack software developer (with a designer's heart) from Milan 🤌🏻🇮🇹.
+A full-stack software developer (with a designer's heart) from Milan 🤌🏻🇮🇹.
 
 - 👩🏻‍💻 Currently learning and growing at [@xtream](https://github.com/xtreamsrl)  
 - 👩🏻‍🎓 BSc in Computer Science with an artistic background  
